@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>impTotemp</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="Import">71855b4247a32110789e057d826d432e</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 08:25:54</sys_created_on>
+        <sys_id>f585138247a32110789e057d826d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>impTotemp</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Company">9d75d30247a32110789e057d826d436c</sys_rte_eb_definition>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_f585138247a32110789e057d826d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 08:25:54</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="temp">bd855b4247a32110789e057d826d4330</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

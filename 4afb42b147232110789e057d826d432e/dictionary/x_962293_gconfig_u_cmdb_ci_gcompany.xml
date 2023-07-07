@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="43c3f02a47676110789e057d826d43c1" extends="cmdb_ci" label="GCompany" max_length="40" name="x_962293_gconfig_u_cmdb_ci_gcompany" type="collection"/>
+</database>

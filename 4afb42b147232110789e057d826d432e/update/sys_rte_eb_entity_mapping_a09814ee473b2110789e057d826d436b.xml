@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[(function() {
+    if (!((input.temp.u_server_os === 'Linux'))) {
+        return true;
+    }
+    return false;
+})();]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group>649814ee473b2110789e057d826d4363</entity_mapping_group>
+        <ignore>false</ignore>
+        <is_conditional>true</is_conditional>
+        <name>tempToWindows Server 1</name>
+        <order>200</order>
+        <source_sys_rte_eb_entity display_value="temp">bd855b4247a32110789e057d826d4330</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 18:12:59</sys_created_on>
+        <sys_id>a09814ee473b2110789e057d826d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tempToWindows Server 1</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Company">9d75d30247a32110789e057d826d436c</sys_rte_eb_definition>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_a09814ee473b2110789e057d826d436b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 18:12:59</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Windows Server 1">209814ee473b2110789e057d826d4369</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

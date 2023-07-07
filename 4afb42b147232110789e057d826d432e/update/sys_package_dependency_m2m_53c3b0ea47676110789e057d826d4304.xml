@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4631962cf90211108c8bd16244dfe724</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-23 09:56:17</sys_created_on>
+        <sys_id>53c3b0ea47676110789e057d826d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-23 09:56:17</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

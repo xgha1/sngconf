@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group>27822b7147672110789e057d826d4339</entity_mapping_group>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>tempToServer 1</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="temp">529c5ef147632110789e057d826d43f7</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 14:44:20</sys_created_on>
+        <sys_id>27822b7147672110789e057d826d433c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tempToServer 1</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Server">fb171a7d47232110789e057d826d43b7</sys_rte_eb_definition>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_27822b7147672110789e057d826d433c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 14:44:20</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Server 1">a7822b7147672110789e057d826d4339</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>
