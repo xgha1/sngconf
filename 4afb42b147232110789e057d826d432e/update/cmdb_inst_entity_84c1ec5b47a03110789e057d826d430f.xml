@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_inst_entity">
+    <cmdb_inst_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <lookup_for_entity/>
+        <name>Import</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <related_for_entity/>
+        <relationship_type/>
+        <sys_class_name>cmdb_inst_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 09:35:38</sys_created_on>
+        <sys_id>84c1ec5b47a03110789e057d826d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Zcomp Import  ETL">d9b1a01b47a03110789e057d826d43cf</sys_rte_eb_definition>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>cmdb_inst_entity_84c1ec5b47a03110789e057d826d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 09:35:38</sys_updated_on>
+        <table>x_962293_gconfig_zcomp_for_etl</table>
+    </cmdb_inst_entity>
+</record_update>

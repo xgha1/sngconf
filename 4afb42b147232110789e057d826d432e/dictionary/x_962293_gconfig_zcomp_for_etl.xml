@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="65b1ac5b47a03110789e057d826d439b" extends="sys_import_set_row" label="Zcomp for ETL" max_length="40" name="x_962293_gconfig_zcomp_for_etl" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cistatus" label="cistatus" max_length="40" name="u_cistatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=comments" label="comments" max_length="40" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=groupname" label="groupname" max_length="40" name="u_groupname" type="string"/>
+        <element attributes="import_attribute_name=id" label="id" max_length="40" name="u_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=usercount" label="usercount" max_length="40" name="u_usercount" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bec177ff47332110789e057d826d43ca" label="GTestTable" max_length="40" name="x_962293_gconfig_gtesttable" type="collection">
+        <element label="My Column 1" max_length="40" name="my_column_1" type="string"/>
+        <element choice="3" default="choice1" label="My Column 2" mandatory="true" max_length="40" name="my_column_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice1e" value="choice1"/>
+                <element inactive_on_update="false" label="Choice2d" language="de" value="choice2"/>
+                <element inactive_on_update="false" label="Choice2e" value="choice2"/>
+                <element inactive_on_update="false" label="Choice3e" value="choice3"/>
+            </choice>
+        </element>
+    </element>
+</database>

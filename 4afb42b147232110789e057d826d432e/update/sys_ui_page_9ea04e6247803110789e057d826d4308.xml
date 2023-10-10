@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>GConfig  Manual</description>
+        <direct>false</direct>
+        <endpoint>x_962293_gconfig_manual.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<h2>GCONFIG MANUAL</h2>
+	<p>Url is   <a href="https://wwww.wikipedia.com">Wikipedia</a></p>
+</j:jelly>]]></html>
+        <name>manual</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 12:14:40</sys_created_on>
+        <sys_id>9ea04e6247803110789e057d826d4308</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>manual</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_ui_page_9ea04e6247803110789e057d826d4308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 10:20:34</sys_updated_on>
+    </sys_ui_page>
+</record_update>

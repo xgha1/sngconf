@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="my_column_2" table="x_962293_gconfig_gtesttable" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>my_column_2</element>
+            <name>x_962293_gconfig_gtesttable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 07:26:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>my_column_2</sys_name>
+            <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+            <sys_update_name>sys_choice_x_962293_gconfig_gtesttable_my_column_2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 07:26:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_column_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice1e</label>
+            <language>en</language>
+            <name>x_962293_gconfig_gtesttable</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 07:33:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 07:33:19</sys_updated_on>
+            <value>choice1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_column_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice2d</label>
+            <language>de</language>
+            <name>x_962293_gconfig_gtesttable</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 07:26:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 07:26:33</sys_updated_on>
+            <value>choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_column_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice2e</label>
+            <language>en</language>
+            <name>x_962293_gconfig_gtesttable</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 07:29:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 07:29:55</sys_updated_on>
+            <value>choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_column_2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice3e</label>
+            <language>en</language>
+            <name>x_962293_gconfig_gtesttable</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 07:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 07:28:35</sys_updated_on>
+            <value>choice3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

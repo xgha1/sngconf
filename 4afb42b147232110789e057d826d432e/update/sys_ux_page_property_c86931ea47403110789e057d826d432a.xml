@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="IntegrationHub Designer">ad03e8565392101057f1ddeeff7b125a</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 11:31:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c86931ea47403110789e057d826d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_ux_page_property_c86931ea47403110789e057d826d432a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 11:31:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_962293_gconfig.ad03e8565392101057f1ddeeff7b125a.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c86931ea47403110789e057d826d432a"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="u_name">c4c1ec5b47a03110789e057d826d43c5</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 09:44:53</sys_created_on>
+        <sys_id>abd3601f47a03110789e057d826d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GConfig" source="x_962293_gconfig">4afb42b147232110789e057d826d432e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Zcomp Import  ETL">d9b1a01b47a03110789e057d826d43cf</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="tempToCompany 1">d6f1609b47a03110789e057d826d4374</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="GConfig">4afb42b147232110789e057d826d432e</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_abd3601f47a03110789e057d826d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 09:44:53</sys_updated_on>
+        <target_sys_rte_eb_field display_value="source_native_key">2bd3601f47a03110789e057d826d4327</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>
